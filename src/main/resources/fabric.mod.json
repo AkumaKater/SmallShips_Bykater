@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "smallships",
+  "id": "smallshipsbykater",
   "version": "${version}",
 
   "name": "Example Mod",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.katersmod.smallshipsbykater.ship"
+      "de.katersmod.smallshipsbykater.shipbyKaterMod"
     ]
   },
   "mixins": [
