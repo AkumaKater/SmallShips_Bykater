@@ -1,5 +1,8 @@
 {
   "item.smallshipsbykater.mythril_ingot": "Mythril Ingot",
-  "item.smallshipsbykater.mythril_nugget": "Mythril Nugget"
+  "item.smallshipsbykater.mythril_nugget": "Mythril Nugget",
+
+
+  "bloc.smallshipsbykater.mythril_block": "Mythril Block"
 
 }
