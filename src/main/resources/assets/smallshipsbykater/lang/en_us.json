@@ -1,8 +1,12 @@
 {
   "item.smallshipsbykater.mythril_ingot": "Mythril Ingot",
   "item.smallshipsbykater.mythril_nugget": "Mythril Nugget",
+  "item.smallshipsbykater.burger": "Burger",
 
 
-  "bloc.smallshipsbykater.mythril_block": "Mythril Block"
+  "block.smallshipsbykater.mythril_block": "Mythril Block",
+  "block.smallshipsbykater.mythril_ore": "Mythril Ore",
 
+  "itemGroup.smallshipsbykater.mythril": "Mythril Tab",
+  "itemGroup.smallshipsbykater.ships": "Ships By kater"
 }
